@@ -1,1 +1,5 @@
-# Atm-operation
+This program describes the operation performed in atm(automated teller machine) in java language.this project contains small operations like password verification and when the password is incorrect the output will be shown as "you have entered the wrong pin" and 
+                                 *if the password is correct so that it will enter the next step and ask for the job to be performed there are three options will be displayed in the screen so that we have to select any one of them and the three options are "withdrawl""deposit" and "balance enquiry" and.
+                                 after we selcting any one of them if the person selcted the withdrawl option it will ask for the amount to be withdrawl and those ammount will be reduced from the total amount and updated and displayed the remaining amount in the screen and.
+                                if we selected the "deposit" option it will ask for the amount to be deposited and it will update the amount in the remaining amount and the total amount will be dispalyed.
+                                if the balance enquiry is clicked/selected then it will display the balance and it will greeted.
